@@ -5,7 +5,7 @@ Examples of programs written in Python.
 Sources for http://pythonicway.com/
 
 Builds status:
-![.github/workflows/main.yml](https://github.com/atvho/actions_repo/workflows/.github/workflows/main.yml/badge.svg)
+![Test_actions](https://github.com/atvho/actions_repo/workflows/Test_actions/badge.svg?branch=master&event=push)
 
 Contents: 
 
