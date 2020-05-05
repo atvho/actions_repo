@@ -6,7 +6,7 @@ on:
 
 jobs:  
   build_1:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latestgjgjh
 
     steps:
     - name: Run a one-line script
